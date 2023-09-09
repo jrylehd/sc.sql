@@ -1,0 +1,228 @@
+Member_ID,First_Name,Last_Name1,Last_Name2,Gender,Location_ID,Role_ID,President_ID,VP_ID
+1,Josh Ryle,,Dimaculangan,Male,1,4,6,23
+2,Jillian,,Tan,Female,1,,6,23
+3,Reinor Kobe,,Dimaculangan,Male,1,,6,23
+4,Raia Sofia,,Dimaculangan,Female,1,,6,23
+5,Leilani,Honrado,Dimaculangan,Female,1,,6,23
+6,Jesse,,Dimaculangan,Male,1,1,NULL,NULL
+7,Eriko,,DeGracia,Male,1,,6,23
+8,Erika,,DeGracia,Female,1,,6,23
+9,Rexon,,DeGracia,Male,1,,6,23
+10,Janet,Abrenica,DeGracia,Female,1,,6,23
+11,Patrick James,,Manliclic,Male,1,5,6,23
+12,Derick James,,Manliclic,Male,1,,6,23
+13,Boyet,,Castillejos,Male,2,1,NULL,NULL
+14,Jinky,Dimaculangan,Castillejos,Female,2,,13,15
+15,Janine,Castillejos,Virk,Female,2,2,13,NULL
+16,Humneesh,,Virk,Male,2,,13,15
+17,Kenn,,Aseron,Female,2,,13,15
+18,Kyle,,Aseron,Male,2,,13,15
+19,Danielle,,DeGracia,Female,1,,6,23
+20,Caitlin Nicole,,Casilao,Female,1,3,6,23
+21,Jen,Vere,Casilao,Female,1,7,6,23
+22,Bong,,Casilao,Male,1,7,6,23
+23,Christine Sheila,,DeGracia,Female,1,2,6,NULL
+24,Phillip,,Aseron,Male,2,,13,15
+25,Rolman,,Manliclic,Male,1,,6,23
+26,Darlene,Dimaculangan,Caluag,Female,2,,13,15
+27,Kaden,,Caluag,Male,2,,13,15
+28,Joan Nicole,,Dimaculangan,Female,1,,6,23
+29,Jason,,Dimaculangan,Male,2,,13,15
+30,Aurora,Castillo,Dimaculangan,Female,2,,13,15
+31,Christian,,DeGracia,Male,1,,6,23
+32,Pauline,,DeGracia,Female,1,4,6,23
+33,Marc,,Andal,Male,1,,6,23
+34,Kaitlin,,Digrispino,Female,1,,6,23
+35,Oliver,,Bliss,Male,1,6,6,23
+36,Hopsy,Dimaculangan,Bolastig,Female,4,1,NULL,NULL
+37,Tranquilina,,Pabilona,Female,1,,6,23
+38,Juby,,Aseron,Female,2,,13,15
+39,Jeff Ryan,,Dimaculangan,Male,2,,13,15
+40,Davis,,Aseron,Male,2,,13,15
+41,Joseph,,Dimaculangan,Male,2,,13,15
+42,Chinita,,Lucero,Female,1,,6,23
+43,Nepo,,Lucero,Male,1,,6,23
+44,CJay,,Lucero,Male,1,,6,23
+45,Shirley,Dimaculangan,Aseron,Female,2,,13,15
+46,Ernesto,,Dimaculangan,Male,3,1,NULL,NULL
+47,Charissa,Dimaculangan,Altobar,Female,3,,46,215
+48,Ly,,Castillejos,Female,2,,13,15
+49,Alvin,,Decipeda,Male,3,,46,215
+50,Edwin,,Bolastig,Male,4,2,36,2
+51,Vince,,Bolastig,Male,3,,46,215
+52,Lance,,Bolastig,Male,4,,36,2
+53,Naomi,,Bolastig,Female,2,,13,15
+54,Mico,,Suayan,Male,4,,36,2
+55,Rosie,,Alicaya,Female,4,,36,2
+56,Fe,,Castillejos,Female,2,,13,15
+57,Babie,Castillejos,DeGracia,Female,3,,46,215
+58,Luchell,Castillejos,Tolentino,Female,2,,13,15
+59,Ligaya,Decipeda,Simbulan,Female,3,,46,215
+60,Florante,,DeGracia,Male,1,,6,23
+61,Nemie,,De La Rosa,Female,4,,36,2
+62,Ron,,Christian,Male,1,,6,23
+63,Adelia,,Odeste,Female,1,,6,23
+64,Manolo,,DeGracia,Male,4,,36,2
+65,Kenn,,DeGracia,Male,1,,6,23
+66,Yashcer,Concepcion,Malik,Male,4,,36,2
+67,Kathy,Quilaton,Malik,Female,4,,36,2
+68,Carl,,Aseron,Male,2,,13,15
+69,Juanito,,Castillo,Male,4,,36,2
+70,Aebbey,Ramos,DeGracia,Female,1,,6,23
+71,Brandon,,DeGracia,Male,3,,46,215
+72,Maila,,DeGracia,Female,3,,46,215
+73,Mitzi,,Michelle,Female,4,,36,2
+74,Marciano,,Andal,Male,1,,6,23
+75,Danielle,,Realubit,Female,2,,13,15
+76,LeAnne,Aquino,Mayapis,Female,1,,6,23
+77,Laura,DeGracia,Supanavongs,Female,1,6,6,23
+78,Deo,,Supanavongs,Male,1,6,6,23
+79,Eden,Dinglasan,Joya,Female,4,,36,2
+80,Aida,DeGracia,Abrenica,Female,3,,46,215
+81,Melissa,,Andal,Female,1,,6,23
+82,Teresita,Aseron,Vallada,Female,2,,13,15
+83,Sofia,,Tolentino,Female,1,,6,23
+84,Paul,,DeGracia,Male,1,,6,23
+85,Odette,,DeGracia,Female,1,,6,23
+86,Kathleen,Jose,Le,Female,3,,46,215
+87,Beth,,DeGracia,Female,3,,46,215
+88,Danadei,,DeGracia,Female,3,,46,215
+89,Alex Allan,,Magsombol,Male,3,,46,215
+90,Monette,Suayan,Lapena,Female,3,,46,215
+91,Janelle Lizette,,DeGracia,,3,,46,215
+92,Minerva,,Suayan,Female,3,,46,215
+93,Mhar,,Andal,Male,1,,6,23
+94,Anna Marie,,Carino,Female,4,,36,2
+95,Christian,,Carino,Male,4,,36,2
+96,Ianne,Badillo,Hernandez,Female,2,,13,15
+97,Kaye,,Aseron,Female,2,,13,15
+98,Jetjet,Castillejos,Munoz,Female,3,,46,215
+99,Rhodora,DeGracia,Suayan,Female,4,,36,2
+100,Rhixone,Badillo,Hernandez,Male,3,,46,215
+101,Elmer Lhenn,,Andal,Male,1,,6,23
+102,Nestor,,Simbulan,Male,3,,46,215
+103,Ed,,Badillo,Male,4,,36,2
+104,Audrey,Aguilan,Maranan,Female,1,,6,23
+105,Paul,,Magsombol,Male,1,6,6,23
+106,Mhar,,Andal,Male,1,,6,23
+107,Neriza,,Miranda,Female,1,,6,23
+108,Josielyn,,Roque,Female,1,,6,23
+109,Jillian Marisse,Badillo,Leyba,Female,3,,46,215
+110,Vicente,,Leyba,Male,3,,46,215
+111,Yanna,,Mart,Female,1,,6,23
+112,Royce,,Galdo,Male,2,,13,15
+113,Pauline,Timbang,Galdo,Female,2,,13,15
+114,Jeanette Cabrera,Villapando,Galdo,Female,2,,13,15
+115,Adolfo Jasa,,Galdo,Male,4,,36,2
+116,Geraldine,Casilao,De La Rosa,Female,3,,46,215
+117,Gherizza Mae,,Andal,Female,1,,6,23
+118,Jenny,,Hernandez,Female,4,,36,2
+119,Cassey,DeGracia,Hernandez,Female,4,,36,2
+120,Prescy,Felaire,Abrenica,Female,3,,46,215
+121,Krisha Marie,,Andal,Female,1,5,6,23
+122,Nica,,Magsombol,Female,4,,36,2
+123,Jocelyn,Pastrana,DeGracia,Female,3,,46,215
+124,Kisha,,DeGracia,Female,4,,36,2
+125,Manny,,DeGracia,Male,3,,46,215
+126,Chona,Magsombol,Mayapis,Female,1,8,6,23
+127,Lea,Tordecilla,Abad,Female,4,,36,2
+128,Nicole,,Abrenica,Female,3,,46,215
+129,Nina,,DeGracia,Female,3,,46,215
+130,Wendell Chris,,DeGracia,Male,3,,46,215
+131,Tess,,DeGracia,Female,3,,46,215
+132,Lilebeth,,Magsombol,Female,4,,36,2
+133,Brandon,,DeGracia,Male,3,,46,215
+134,Gina,,Magsombol,Female,1,,6,23
+135,Maria,Dolores,DeGracia,Female,4,,36,2
+136,Kenneth,,DeGracia,Male,4,,36,2
+137,MJ,,Andal,Male,1,,6,23
+138,Annalise,,Jose,Female,3,,46,215
+139,Nicole,,Silva,Female,1,,6,23
+140,Justin,,Magsombol,Male,1,,6,23
+141,Alice,,Hipos,Female,1,,6,23
+142,Mike,,DeGracia,Male,3,,46,215
+143,Ingrid,,DeGracia,Female,2,,13,15
+144,Oscar,,DeGracia,Male,3,,46,215
+145,Myrna,Mirano,Miravite,Female,4,,36,2
+146,Veronique,,DeGracia,Female,3,,46,215
+147,Maro,,Banez,Male,4,,36,2
+148,Stephanie,,Abrenica,Female,3,,46,215
+149,Grace,,DeGracia,Female,4,,36,2
+150,Mary,,DeGracia,Female,3,,46,215
+151,Marinelle,,Carandang,Female,2,,13,15
+152,Jayvee,,Abrenica,Male,3,,46,215
+153,Rob,,Dimaculangan,Male,4,,36,2
+154,Edward,,Mayapis,Male,1,,6,23
+155,Candace,,Casilao,Female,1,,6,23
+156,Michael Gabriel,Casilao,Andal,Male,1,,6,23
+157,Jacob,,DeGracia,Male,3,,46,215
+158,Rosie Marie,,,Female,1,,6,23
+159,Julia,,Andal,Female,1,,6,23
+160,Dely,,De Sagun,Female,4,,36,2
+161,Nicanor,,Dimaculangan,Male,2,,13,15
+162,Myrhix,,Hernandez,Female,3,,46,215
+163,Leny,,Uy,Female,1,,6,23
+164,Eden,,Maulion,Female,3,,46,215
+165,Mark,Nadonga,Beley,Male,3,,46,215
+166,Linda,,Guban,Female,4,,36,2
+167,Arthur,,Hernandez,Male,2,,13,15
+168,Thelda,,Cayetano,Female,4,,36,2
+169,Bong,,Aseron,Male,2,,13,15
+170,Jinky,,Aseron,Female,2,,13,15
+171,Allan,,Maulion,Male,4,,36,2
+172,Chariz,,Hernandez,Female,3,,46,215
+173,Iambles,,Cabrera,Male,2,,13,15
+174,Jesebel,Cabrera,Visaya,Female,4,,36,2
+175,Lito,,DeGracia,Male,3,,46,215
+176,Rency,Cabrera,Uy,Male,3,,46,215
+177,Francine,,Visaya,Female,2,,13,15
+178,Ryian,,Galdo,Male,2,,13,15
+179,Mildred,Andal,DeGracia,Female,4,,36,2
+180,Tro,,Badillo,Male,3,,46,215
+181,Perla,,Aseron,Female,4,,36,2
+182,Lyn,Cabrera,Roa,Female,4,,36,2
+183,Nicholas,,Torers,Male,4,,36,2
+184,Jun,,Maranan,Male,4,,36,2
+185,Evelyn,,Papadimitriou,Female,4,,36,2
+186,Aisiah,Lorenzo,Aseron,Male,4,,36,2
+187,Samantha Bryanne,Cortez,Aseron,Female,2,,13,15
+188,Amrie Shantei,,Aseron,Female,2,,13,15
+189,Karlette,Apolyn,Aseron,Female,4,,36,2
+190,Andi,,Leigh,Female,4,,36,2
+191,Monica,Aseron,,Female,4,,36,2
+192,Bouyer,Airam,Aseron,Male,4,,36,2
+193,Jacqueline,Maulion,Masorong,Female,4,,36,2
+194,Riz,,De Castro,Female,1,,6,23
+195,Nel,,Badillo,Male,4,,36,2
+196,Araceli,,Magsombol,Female,4,,36,2
+197,Ricy,Idos,Badillo,Female,3,,46,215
+198,Rolan,,Badillo,Male,3,,46,215
+199,Hope,,Villaluna,Female,3,,46,215
+200,Dell,,Ramos,Male,4,,36,2
+201,Jenny,,Abrequito,Female,2,,13,15
+202,Ding,,Decipeda,Male,4,,36,2
+203,Katherine,,Caberto,Female,2,,13,15
+204,Brian,,Caberto,Male,2,,13,15
+205,Shian Kyle,,Caberto,Male,2,,13,15
+206,John,,Ventura,Male,3,,46,215
+207,Tanya,,Abrenica,Female,1,,6,23
+208,Merlita,Manalo,Tolentino,Female,4,,36,2
+209,Ellen,Casilao,Ruelo,Female,4,,36,2
+210,Lino,,Magsombol,Male,1,8,6,23
+211,Ante,,DeGracia,Male,1,8,6,23
+212,Paulino,,Magsombol,Male,1,8,6,23
+213,Tess,,Magsombol,Female,1,8,6,23
+214,Brian,,Dimaculangan,Male,3,,46,215
+215,Lydia,,Dimaculangan,Female,3,2,46,NULL
+216,Amelia,,Altobar,Female,3,,46,215
+217,Wes Dariusz,,Dimaculangan,Male,1,,6,23
+218,Coline,,Dimaculangan,Female,1,,6,23
+219,Chris,,Caluag,Male,2,,13,15
+220,Anthony,,Magsombol,Male,1,,6,23
+221,Boyet,,DeGracia,Male,1,,6,23
+222,Buda,,Abrenica,Female,1,,6,23
+223,Danny,,Magsombol,Male,1,,6,23
+224,Jeff,,Abrenica,Male,1,,6,23
+225,Rose,,Magsombol,Female,1,,6,23
+226,Raquel,,Balingon,Female,1,,6,23
+227,Santana,,Whims,Male,1,,6,23
